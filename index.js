@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token = 'NzY1OTc2MTUxODQ3MzM4MDI1.X4co4Q.34p_l4Nv2PQQ-jxxny89pg1U44Y';
+const token = ''; //input token here
 const PREFIX = '$';
 
 const nine_dragons = '564486946651504668';
